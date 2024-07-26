@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [ebinalex.ml](ebinalex.ml)
 
-- 📫 How to reach me **ebinalex@karunya.edu.in**
+- 📫 How to reach me **me@ebinalex.tech**
 
 - ⚡ Fun fact **GAMER**
 
