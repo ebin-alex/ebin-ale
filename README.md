@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **For azure fundamentals exam (AZ-900)**
 
-- 👨‍💻 All of my projects are available at [ebinalex.ml](ebinalex.ml)
+- 👨‍💻 All of my projects are available at [ebinalex.tech](ebinalex.tech)
 
 - 📫 How to reach me **me@ebinalex.tech**
 
