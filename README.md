@@ -1,22 +1,99 @@
-<h1 align="center">Hi 👋, I'm Ebin Alex</h1>
-<h3 align="center">Aspiring Cloud Enthusiast</h3>
+[![header](https://github.com/ebin-alex/banner.png)](https://ebinalex.tech)
 
-- 🌱 I’m currently learning **For azure fundamentals exam (AZ-900)**
+# Hi, I'm Ebin Alex 👋
 
-- 👨‍💻 All of my projects are available at [ebinalex.tech](ebinalex.tech)
+![Profile views](https://komarev.com/ghpvc/?username=ebin-alex&label=Profile%20views&color=blueviolet&style=flat)
 
-- 📫 How to reach me **me@ebinalex.tech**
+I'm a **Computer Science Student** at **Karunya University**, with a deep interest in **Cloud Computing**, **DevOps**, and **Cybersecurity**. My passion lies in building scalable infrastructure and secure cloud solutions using the latest technologies.
 
-- ⚡ Fun fact **GAMER**
+- 🌱 Currently learning: **CCNA, Cloud Security, Kubernetes**
+- 🎯 Future goals: Dive deeper into **AI for cloud solutions**
+- 🎮 Fun fact: I love solving problems on **LeetCode**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ebinalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ebinalex" height="30" width="40" /></a>
-<a href="https://twitter.com/ebinalexx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebinalexx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ebinale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebinale" height="30" width="40" /></a>
-<a href="https://instagram.com/ebinale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebinale" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ebinalex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ebinalex" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔧 Technologies & Tools
+
+<div align="center">
+<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+</div>
+
+---
+
+## 📈 My GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ebin-alex&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ebin's GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ebin-alex&theme=tokyonight&hide_border=true" alt="Ebin's GitHub Streak Stats" />
+</div>
+
+---
+
+## 🎯 LeetCode Stats
+
+[![LeetCode Streak](https://leetcard.jacoblin.cool/ebin_alex?theme=light&ext=heatmap)](https://leetcode.com/ebin_alex)
+
+---
+
+## 💻 Projects
+
+- **Securing the IoT**: A mini-project demonstrating IoT vulnerabilities and mitigation techniques using **Raspberry Pi**. Published paper accepted by **IEEE Xplore**.
+- **Intel Grand Challenge**: Developed AI model to predict pedestrian movement, improving accuracy by 10% on **Jetson Nano**.
+  
+[More projects on my GitHub profile](https://github.com/ebin-alex)
+
+---
+
+## 🌐 Connect with Me
+
+- Portfolio: [ebinalex.tech](https://www.ebinalex.tech)
+- Email: [me@ebinalex.tech](mailto:me@ebinalex.tech)
+- LinkedIn: [linkedin.com/in/ebinale](https://www.linkedin.com/in/ebinale)
+- LeetCode: [leetcode.com/ebin_alex](https://leetcode.com/ebin_alex)
+- GitHub: [github.com/ebin-alex](https://github.com/ebin-alex)
+
+---
+
+## 🧑‍💻 Development Setup
+
+- **OS**: Linux and Windows (WSL2)
+- **IDE**: VSCode
+- **Shell**: Bash, Zsh
+- **Version Control**: Git
+
+---
+
+### ⚙️ Setup I Use
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🖥️ Windows PowerUser</b>
+      <ul>
+        <li>Extensive use of WSL2 and PowerShell for development</li>
+        <li>Customized VSCode and Windows Terminal</li>
+      </ul>
+      <img height="40" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg">
+      <img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
+    </td>
+    <td valign="top" width="50%">
+      <b>🐧 Linux Enthusiast</b>
+      <ul>
+        <li>Proficient with Linux for server management and scripting</li>
+        <li>Hands-on with Debian, Ubuntu, and Arch Linux</li>
+      </ul>
+      <img height="40" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg">
+      <img height="40" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg">
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
