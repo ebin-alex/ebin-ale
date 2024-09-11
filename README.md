@@ -54,7 +54,7 @@ I'm a **Computer Science Student** at **Karunya University**, with a deep intere
 - Portfolio: [ebinalex.tech](https://www.ebinalex.tech)
 - Email: [me@ebinalex.tech](mailto:me@ebinalex.tech)
 - LinkedIn: [linkedin.com/in/ebinale](https://www.linkedin.com/in/ebinale)
-- LeetCode: [leetcode.com/ebin_alex](https://leetcode.com/ebin_alex)
+- LeetCode: [leetcode.com/ebin_alex](https://leetcode.com/ebin-alex)
 - GitHub: [github.com/ebin-alex](https://github.com/ebin-alex)
 
 ---
