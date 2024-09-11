@@ -36,7 +36,7 @@ I'm a **Computer Science Student** at **Karunya University**, with a deep intere
 
 ## 🎯 LeetCode Stats
 
-[![LeetCode Streak](https://leetcard.jacoblin.cool/ebin_alex?theme=light&ext=heatmap)](https://leetcode.com/ebin_alex)
+[![LeetCode Streak](https://leetcard.jacoblin.cool/ebin-alex?theme=light&ext=heatmap)](https://leetcode.com/ebin_alex)
 
 ---
 
